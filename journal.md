@@ -17,3 +17,12 @@ the design works as follow:
 
 # journal #2: case & bom
 
+main case !
+![image](https://cdn.hackclub.com/019ee811-82eb-779a-a00f-b2e80f5c6b4e/image.png)
+![image](https://cdn.hackclub.com/019ee812-35d9-7d58-8776-c9e3b60cae83/image.png)
+![image](https://cdn.hackclub.com/019ee812-7a2b-70bb-86a9-cffce5e7fb4e/image.png)
+![image](https://cdn.hackclub.com/019ee812-d8fc-77a4-9544-526289b33a74/image.png)
+it's going to be held together at the top with friction from the keyswitch + the keycap, then the bottom  is held together with m2 heat inserts and screws. or just screws, because the diameter is too small and it's not like i'm going to be taking this apart often. 
+
+![image](https://cdn.hackclub.com/019ee81f-26f4-7cbf-93bf-0e6bab001bed/image.png)
+this should be ok? i just realized that i'm going to need to ship these to taiwan so the page is completely different for aliexpress ... but i'll handle it later ...
