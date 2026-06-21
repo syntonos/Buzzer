@@ -1,4 +1,5 @@
 # Buzzer
+![cad](/Journal%20Images/log_2.1.png)
 
 ## About
 A set of buzzers for trivia games and slapjack; the main board lights up with the color of whichever buzzer was pressed first.
