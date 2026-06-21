@@ -18,11 +18,23 @@ the design works as follow:
 # journal #2: case & bom
 
 main case !
-![image](https://cdn.hackclub.com/019ee811-82eb-779a-a00f-b2e80f5c6b4e/image.png)
-![image](https://cdn.hackclub.com/019ee812-35d9-7d58-8776-c9e3b60cae83/image.png)
-![image](https://cdn.hackclub.com/019ee812-7a2b-70bb-86a9-cffce5e7fb4e/image.png)
-![image](https://cdn.hackclub.com/019ee812-d8fc-77a4-9544-526289b33a74/image.png)
+![image](/Journal%20Images/log_2.1.png)
+![image](/Journal%20Images/log_2.2.png)
+![image](/Journal%20Images/log_2.3.png)
+![image](/Journal%20Images/log_2.4.png)
 it's going to be held together at the top with friction from the keyswitch + the keycap, then the bottom  is held together with m2 heat inserts and screws. or just screws, because the diameter is too small and it's not like i'm going to be taking this apart often. 
 
-![image](https://cdn.hackclub.com/019ee81f-26f4-7cbf-93bf-0e6bab001bed/image.png)
+![image](/Journal%20Images/log_2.5.png)
 this should be ok? i just realized that i'm going to need to ship these to taiwan so the page is completely different for aliexpress ... but i'll handle it later ...
+
+# journal #3: case for the individual buzzer + assembling cart
+
+![image](/Journal%20Images/log_3.1.png)
+
+made a little case for the individual buzzers! it's just one 3d printed part, and the switch slides in. you then wrap or solder the jst wires into the pins.
+
+pretty much done ! time to assemble a cart.
+
+so apparently no lipo batteries ship to taiwan ! fun ! and nothing ships to taiwan for free. also fun. so 50+ % of my bom is shipping costs.
+
+# journal #4: readme and github
