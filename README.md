@@ -2,6 +2,7 @@
 
 ## About
 A set of buzzers for trivia games and slapjack; the main board lights up with the color of whichever buzzer was pressed first.
+- A main hub attached to up to eight buzzers!
 
 ## Idea
 I wanted to play random games with my friends! This just determines who pressed their buzzer the fastest. 
@@ -16,11 +17,15 @@ I wanted to play random games with my friends! This just determines who pressed 
 ![schematic](/Journal%20Images/log_1.1.png)
 
 ## CAD
+
+### Mainhub
 ![cad](/Journal%20Images/log_2.1.png)
 ![cad](/Journal%20Images/log_2.2.png)
 ![cad](/Journal%20Images/log_2.3.png)
 ![cad](/Journal%20Images/log_2.4.png)
 
+### Individual Buzzers
+![cad](/Journal%20Images/log_3.1.png)
 
 ## Firmware
 Firmware coded with Arduino IDE.
